@@ -1,5 +1,8 @@
 # Adizen.ai Enhanced DataTable Component
 
+[![npm version](https://badge.fury.io/js/adizen-tanstack-table.svg)](https://badge.fury.io/js/adizen-tanstack-table)
+[![GitHub](https://img.shields.io/github/license/jainvedant392/adizen-tanstack-table)](https://github.com/jainvedant392/adizen-tanstack-table/blob/main/LICENSE)
+
 A powerful, feature-rich React data table component built with **TanStack Table** and **Shadcn UI**.
 
 ## Features
