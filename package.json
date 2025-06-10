@@ -7,7 +7,8 @@
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "README.md"
   ],
   "scripts": {
     "build": "rollup -c",
@@ -19,10 +20,24 @@
     "react",
     "table",
     "datatable",
-    "tanstack"
+    "tanstack",
+    "shadcn",
+    "typescript",
+    "data-grid",
+    "sorting",
+    "filtering",
+    "pagination"
   ],
-  "author": "Your Name",
+  "author": "Vedant Jain jainvedant392@gmail.com",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jainvedant392/adizen-tanstack-table.git"
+  },
+  "homepage": "https://github.com/jainvedant392/adizen-tanstack-table#readme",
+  "bugs": {
+    "url": "https://github.com/jainvedant392/adizen-tanstack-table/issues"
+  },
   "devDependencies": {
     "@radix-ui/react-dialog": "^1.1.14",
     "@radix-ui/react-dropdown-menu": "^2.1.15",
