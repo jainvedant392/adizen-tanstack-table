@@ -1,6 +1,6 @@
 {
   "name": "adizen-tanstack-table",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "Enhanced DataTable with TanStack Table",
   "main": "dist/index.js",
